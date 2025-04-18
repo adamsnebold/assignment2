@@ -216,5 +216,4 @@ void sort_by_inventory(struct dynarray* products) {
             dynarray_set(products, min_index, temp);
         }
     }
-}
-~                         
+}                         
